@@ -6,7 +6,7 @@ Show me the code!
 
 
 [![GitHub followers](https://img.shields.io/github/followers/jarret1015?style=for-the-badge&color=blue)](https://github.com/jarret1015?tab=followers)
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://jarret.site.com)](https://jarret.site.com)
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://jarret.site.com)](http://139.159.202.0:8080)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jarret1015/jarret1015?label=update&style=for-the-badge&color=orange)](https://github.com/jarret1015/jarret1015)
 
 <table>
